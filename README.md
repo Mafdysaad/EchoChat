@@ -33,6 +33,7 @@ A real-time chat application built with **Flutter**, featuring **WebSocket-based
 ---
 
 ## 📂 Project Structure
+```text
 lib/
 ├── pages/
 │ ├── login_page.dart
@@ -47,7 +48,7 @@ lib/
 └── main.dart
 
 
----
+```
 
 ## 🔧 WebSocket Server (Node.js)
 
